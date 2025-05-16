@@ -1,1 +1,1 @@
-# ghcp-spring-lab
+# ghc-spring-lab
